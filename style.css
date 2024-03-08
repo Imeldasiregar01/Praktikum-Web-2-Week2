@@ -1,0 +1,18 @@
+body{
+    width: 50%;
+    height: 800px;
+    margin: 50px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: last baseline;
+
+}
+#harga{
+    width: 50%;
+    height: 25px;
+    margin: 10px;
+}
